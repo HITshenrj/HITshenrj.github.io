@@ -11,4 +11,4 @@
 - *2025.12*:  🎉 Our [STIC](https://www.mdpi.com/2227-7390/13/24/3979) is accepted by **Mathematics**.
 - *2025.06*:  🎉 Our [HRL](https://www.sciencedirect.com/science/article/pii/S0957417425010887) is accepted by **Expert Systems with Applications**.
 - *2025.06*:  🎉 Our [BINN](https://www.sciencedirect.com/science/article/pii/S0169260725002615) is accepted by **Computer Methods and Programs in Biomedicine**.
-- *2025.02*: 🎉 Our [HCD](https://arxiv.org/abs/2406.10505) is accepted by **IEEE Transactions on Knowledge and Data Engineering**.
+- *2025.02*: 🎉 Our [HCD](https://ieeexplore.ieee.org/document/10877758/) is accepted by **IEEE Transactions on Knowledge and Data Engineering**.
