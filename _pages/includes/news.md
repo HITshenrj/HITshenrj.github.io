@@ -7,6 +7,8 @@
  * 
 -->
 # 🔥 News
+- *2026.07*:  🎉 Our 1 works are accepted by **Expert Systems with Applications**.
+- *2026.06*:  🎉 Our 1 works are accepted by **Computers and Electronics in Agriculture**.
 - *2026.04*:  🎉 Our 1 works are accepted by **ACL 2026**.
 - *2025.12*:  🎉 Our 2 works are accepted by **BIBM 2025**.
 - *2025.06*:  🎉 Our [HRL](https://www.sciencedirect.com/science/article/pii/S0957417425010887) is accepted by **Expert Systems with Applications**.
